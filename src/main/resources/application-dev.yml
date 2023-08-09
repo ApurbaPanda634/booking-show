@@ -1,7 +1,7 @@
 spring:
   datasource:
     url: jdbc:h2:mem:booking-show
-    username: jpmc
+    username: apurba
     password:
   jpa:
     show-sql: true

@@ -9,9 +9,10 @@ To Run: bootrun --args='--spring.profiles.active=dev'
 ## DB Details
 H2-Console: http://localhost:8080/
 URL: jdbc:h2:mem:booking-show
-Password: jpmc
+username: apurba
 
 ## API Usage (Swagger UI Documentation)
+Please check image directory for more details.
 
 Swagger home: http://localhost:8080/swagger-ui/index.html#/
 ![img.png](Images/img11.png)
